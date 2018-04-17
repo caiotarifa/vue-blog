@@ -1,0 +1,12 @@
+# Output folder.
+dist
+
+# Modules and cache folders.
+node_modules
+.cache
+
+# Log files.
+*.log
+
+# macOS
+.DS_Store
